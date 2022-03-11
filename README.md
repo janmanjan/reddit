@@ -14,8 +14,8 @@ Finding a classification model for these subreddits via their post and selftext 
 
 ### Data Analyzed
 * [subreddits_cleaned.csv](./data/subreddits_cleaned.csv) : <br />
-From [r/NoStupidQuestions](https://www.reddit.com/r/NoStupidQuestions/) [*API source*](https://api.pushshift.io/reddit/search/submission?subreddit=NoStupidQuestions): About 60,000 posts were used. <br />
-From ['r/TooAfraidToAsk'](https://www.reddit.com/r/TooAfraidToAsk/) [*API source*](https://api.pushshift.io/reddit/search/submission?subreddit=TooAfraidToAsk): About 60,000 posts were used.
+From [r/NoStupidQuestions](https://www.reddit.com/r/NoStupidQuestions/), [*API source*](https://api.pushshift.io/reddit/search/submission?subreddit=NoStupidQuestions) : About 60,000 posts were used. <br />
+From [r/TooAfraidToAsk](https://www.reddit.com/r/TooAfraidToAsk/), [*API source*](https://api.pushshift.io/reddit/search/submission?subreddit=TooAfraidToAsk) : About 60,000 posts were used.
 
 ### Data Dictionary
 |Feature|Type|Dataset|Description|
