@@ -13,8 +13,8 @@ Natural Language processing (NLP) refers to a branch of artificial intelligence 
 Finding a classification model for these subreddits via their post and selftext can potentially determine where certain topics can or should be posted. However, considering the descriptions for each subreddit, it may not particulary matter. Nevertheless, this would be a good avenue for testing some limitations of NLP or at least the amount of conditions NLP might need to best be utilized. 
 
 ### Data Analyzed
-* [subreddits_cleaned.csv](./data/subreddits_cleaned.csv): <br />
-From [r/NoStupidQuestions](https://www.reddit.com/r/NoStupidQuestions/) [*API source*](https://api.pushshift.io/reddit/search/submission?subreddit=NoStupidQuestions): About 60,000 posts were used.
+* [subreddits_cleaned.csv](./data/subreddits_cleaned.csv) : <br />
+From [r/NoStupidQuestions](https://www.reddit.com/r/NoStupidQuestions/) [*API source*](https://api.pushshift.io/reddit/search/submission?subreddit=NoStupidQuestions): About 60,000 posts were used. <br />
 From ['r/TooAfraidToAsk'](https://www.reddit.com/r/TooAfraidToAsk/) [*API source*](https://api.pushshift.io/reddit/search/submission?subreddit=TooAfraidToAsk): About 60,000 posts were used.
 
 ### Data Dictionary
